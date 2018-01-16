@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for CuBit"
+    id="09e51952-3772-426e-bd90-66fe829e0731"
+    viewpoint="implementation_deployment">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7808e2ca-6fa3-475b-92b2-b794ead29d8e">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_2afa1330-dfc1-4711-a7be-439eab29e7ea.xml#2afa1330-dfc1-4711-a7be-439eab29e7ea"/>
+  </children>
+</archimate:ArchimateDiagramModel>
